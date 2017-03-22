@@ -1,0 +1,40 @@
+
+body {
+	background-image:url(tlo.jpg);
+	margin: 0;
+	padding: 0;	
+}
+
+.container 
+{
+	margin-left: 25%;
+	margin-right:25%;
+}
+
+h1
+{
+	text-align: center;
+	font-family: Arial;
+	font-size: 14 px;
+		
+}
+
+div.bottom  { 
+            height: 3px;
+            width: 100%;
+		    background: -moz-linear-gradient(left, red, orange, yellow, pink, purple, pink, yellow, orange, red);
+}
+
+.content {
+            font: 20px 'gooddogregular', Arial, sans-serif;
+            letter-spacing: 0;
+            text-align:center;
+            color:#FAFAD2;
+            border-radius:10px;
+            border-style:solid;
+            background-color: rgba(69, 93, 255, 0.8);
+            border-style: hidden;     
+            border:none 5px #000000;
+            -moz-border-radius: 75px;
+            -webkit-border-radius: 75px;
+            border-radius: 75px;
