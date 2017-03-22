@@ -8,7 +8,7 @@ function onDeviceReady() {
 
 function deviceInfo() {
 
-	info =  'Hi, I am your smartphone :-)' + '\n' +
+	info =  'Hi, I am your smartphone :)' + '\n' +
 			'=====' + '\n' +
 			'Device Name    : '     + device.name     + '\n' + 
 			'Device Cordova : '  + device.cordova + '\n' + 
@@ -23,7 +23,7 @@ function deviceInfo() {
 
 function myInfo()
 {
-	info =  'Imie: Piotr \n Nazwisko: Duda \n Data urodzenia: 22.01.1994 \n Miejsce zamieszkania: Kraków' 	;
+	info = 'Imie: Piotr \n Nazwisko: Duda \n Data urodzenia: 22.01.1994 \n Miejsce zamieszkania: Kraków' 	;
 
 	navigator.notification.alert(info);
 }
