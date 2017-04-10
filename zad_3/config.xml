@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Tourist attractions</name>
-    <description>This app shows beautiful local tourist attractions.</description>
+    <name>First form</name>
+    <description>This is my first form app</description>
     <author href="http://mypersonalwebsite.com" email="piotr.duda327@gmail.com">
 		Piotr Duda
 	</author>
